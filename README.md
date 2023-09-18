@@ -23,24 +23,16 @@ To get started with DeutschWordle, follow these steps:
 Installation
 Clone this repository to your local machine:
 
-bash
-Copy code
 git clone https://github.com/your-username/DeutschWordle.git
 Navigate to the project directory:
 
-bash
-Copy code
 cd DeutschWordle
 Install the required dependencies using npm:
 
-bash
-Copy code
 npm install
 Usage
 Start the development server:
 
-bash
-Copy code
 npm start
 Open your web browser and visit http://localhost:8080 to launch the DeutschWordle application.
 
@@ -53,18 +45,12 @@ Fork this repository.
 
 Create a new branch with a descriptive name:
 
-bash
-Copy code
 git checkout -b feature/your-feature-name
 Make your changes and commit them with clear and concise messages:
 
-bash
-Copy code
 git commit -m "Add your meaningful commit message here"
 Push your changes to your forked repository:
 
-bash
-Copy code
 git push origin feature/your-feature-name
 Create a pull request to merge your changes into the main repository. Be sure to describe the purpose of your pull request and any relevant details.
 
